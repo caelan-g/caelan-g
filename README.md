@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on 2023-2024 FTC Robotics Comp
 - 📫 Reach me at
 
-![Caelan's GitHub stats](https://github-readme-stats.vercel.app/api?username=caelan-g&show_icons=true&theme=dark)
+<!--![Caelan's GitHub stats](https://github-readme-stats.vercel.app/api?username=caelan-g&show_icons=true&theme=dark)-->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 <!---
 caelan-g/caelan-g is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
