@@ -1,8 +1,8 @@
 # Hey, I'm Caelan 👋
-- 👀 I’m interested in 🦆
-- 🌱 I’m currently learning **Java**, **Python**, **JavaScript**
-- 💞️ I’m looking to collaborate on 2023-2024 FTC Robotics Comp
-- 📫 Reach me at jeff@amazon.com
+- 👀 I’m interested in UI/UX and building apps
+- 🌱 I’m currently learning **React**, **Python**, **Flask**
+- 💞️ I’m looking to collaborate on my HSC
+- 📫 Reach me at my email
 
 <!--![Caelan's GitHub stats](https://github-readme-stats.vercel.app/api?username=caelan-g&show_icons=true&theme=dark)-->
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=caelan-g&theme=dark)](https://git.io/streak-stats)-->
