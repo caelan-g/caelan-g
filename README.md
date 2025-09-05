@@ -1,21 +1,23 @@
 ### 👋 Hey, I’m Caelan
-I’m a developer, student, and designer who loves turning ideas into real, usable products. 
+- Currently a Year 12 student, developer and designer who loves turning ideas into real, functional products. 
+- Working on Edura, a Flask-based web-app which I'll be presenting at PyCon Australia 2025. 
+- Expanding my skills in React and exploring full-stack development.
+- Eager to experiment, collaborate with other developers, and build projects that bring concepts to life.
 
-### 🔧 What I work with
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+### 🔧 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 
-### 🌊 Outside of coding
+### 🌊 Outside of Coding
 When I’m not programming, you can find me surfing with friends or volunteering with Surf Life Saving on Sydney’s Northern Beaches.
 
 ### 🌐 Links
